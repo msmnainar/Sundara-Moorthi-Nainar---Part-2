@@ -1,0 +1,6 @@
+customer_id,recency,frequency,monetary,segment_name
+CUST00001,107,6,2955.57,At Risk
+CUST00002,40,1,581,High Value
+CUST00003,171,1,649.98,Lost
+CUST00004,131,1,1604.04,High Value
+CUST00005,38,4,2550.91,At Risk
